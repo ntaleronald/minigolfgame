@@ -1,2 +1,2 @@
 # minigolfgame
-A mini projectile game written in python.
+A projectile game written in python using pygame.
